@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Student\source\repos\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Student\source\repos\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Student\source\repos\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\Student\source\repos\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll.config
